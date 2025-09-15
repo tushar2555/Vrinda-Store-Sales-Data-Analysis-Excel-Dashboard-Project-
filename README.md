@@ -32,7 +32,8 @@ This project analyzes the **Vrinda Store dataset** to uncover key sales insights
 
 ## 📂 Project Files  
 - `Vrinda Store Data Analysis.xlsx` → Excel workbook with dashboard & analysis.  
-- `Dashboard Screenshot.png` → Preview of the final dashboard (add your screenshot here).  
+- `Dashboard Screenshot.png` → ![Dashboard Image](https://github.com/user-attachments/assets/24a399e1-8451-4362-b21e-cd1311ad1143)
+  
 
 ---
 

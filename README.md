@@ -31,7 +31,7 @@ This project analyzes the **Vrinda Store dataset** to uncover key sales insights
 ---
 
 ## 📂 Project Files  
-- `Vrinda Store Data Analysis.xlsx` → https://github.com/tushar2555/Vrinda-Store-Sales-Data-Analysis-Excel-Dashboard-Project-/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx  
+- `Vrinda Store Data Analysis.xlsx` → [Vrinda Store Data Analysis](https://github.com/tushar2555/Vrinda-Store-Sales-Data-Analysis-Excel-Dashboard-Project-/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx)  
 - `Dashboard Screenshot.png` → ![Dashboard Image](https://github.com/user-attachments/assets/24a399e1-8451-4362-b21e-cd1311ad1143)
   
 ## ✅ Final Conclusion  
@@ -52,4 +52,4 @@ This project improved my skills in:
 ---
 
 ## 🔗 Connect  
-If you found this project useful, let’s connect on www.linkedin.com/in/tusharsharma255 🤝  
+If you found this project useful, let’s connect on [LinkedIn]www.linkedin.com/in/tusharsharma255 🤝  
